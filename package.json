@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-sockets",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "description": "Implements socket.io support in Sails",
   "keywords": [
     "socket.io",
@@ -10,13 +10,13 @@
   ],
   "dependencies": {
     "@sailshq/lodash": "^3.10.2",
-    "async": "2.0.1",
+    "async": "2.6.4",
     "flaverr": "^1.0.0",
     "machinepack-redis": "^2.0.3",
     "machinepack-urls": "^6.0.2-0",
     "proxy-addr": "1.1.5",
     "semver": "4.3.6",
-    "socket.io": "2.4.1",
+    "socket.io": "2.5.0",
     "uid2": "0.0.3"
   },
   "devDependencies": {
